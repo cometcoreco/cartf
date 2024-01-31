@@ -1,0 +1,33 @@
+{
+    "name": "Hexfashion",
+    "slug": "hexfashion",
+    "description": "Fashion Theme",
+    "author": "Mazharul Islam Suzon",
+    "version": "1.0.0",
+    "status": true,
+    "screenshot": [
+        {
+            "primary": "primary.jpg",
+            "sort": "desc"
+        }
+    ],
+    "headerHook": [
+        {
+            "style": [
+                "hexfashion"
+            ],
+            "script": [],
+            "blade": [],
+            "navbarArea": "navbar",
+            "breadcrumbArea": "breadcrumb"
+        }
+    ],
+    "footerHook": [
+        {
+            "style": [],
+            "script": [],
+            "blade": [],
+            "widgetArea": "footer-hexfashion"
+        }
+    ]
+}

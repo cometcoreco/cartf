@@ -1,0 +1,13 @@
+{
+    "name": "DigitalProduct",
+    "alias": "digitalproduct",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DigitalProduct\\Providers\\DigitalProductServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

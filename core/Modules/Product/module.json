@@ -1,0 +1,14 @@
+{
+    "name": "Product",
+    "alias": "product",
+    "description": "",
+    "version": "2.0.0",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Product\\Providers\\ProductServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

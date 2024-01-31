@@ -1,0 +1,12 @@
+.theme-aromatic-footer .footer-widget .footer-inner .payment-list {
+    overflow: hidden;
+}
+
+.theme-aromatic-footer .footer-logo img {
+    max-width: 200px;
+}
+.theme-aromatic-footer .footer-widget .footer-inner .payment-list li img {
+    height: auto;
+    max-width: 45px;
+    background: #fff;
+}

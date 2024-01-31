@@ -1,0 +1,17 @@
+{
+  "name": "Nazmart POS PWA",
+  "short_name": "NPP",
+  "start_url": "/admin-home/pos/view",
+  "background_color": "#ef6b6b",
+  "description": "PWA for Nazmart POS Application",
+  "display": "standalone",
+  "theme_color": "#ef6b6b",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

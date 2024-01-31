@@ -1,0 +1,37 @@
+{
+    "name" : "Default Theme",
+    "slug" : "default",
+    "description" : "Default Theme",
+    "author" : "Mazharul Islam Suzon",
+    "version" : "1.0.0",
+    "status" : true,
+    "screenshot" : [
+        {
+            "primary" : "default.jpg",
+            "sort" : "desc"
+        }
+    ],
+    "headerHook" : [
+        {
+            "style" : ["main-css"],
+            "script" : ["custom-header"],
+            "blade" : ["default-template"],
+            "navbarArea": "navbar"
+        }
+    ],
+    "footerHook" : [
+        {
+            "style" : ["custom-css"],
+            "script" : ["custom-footer"],
+            "blade" : ["default-template"],
+            "widgetArea": "footer-default"
+        }
+    ],
+    "." : [
+        {
+            "cart" : "cart_page",
+            "shop" : "shop_page"
+        }
+    ]
+}
+

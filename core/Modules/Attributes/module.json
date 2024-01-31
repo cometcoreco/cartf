@@ -1,0 +1,14 @@
+{
+    "name": "Attributes",
+    "alias": "attributes",
+    "description": "",
+    "version": "1.0.5",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Attributes\\Providers\\AttributesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

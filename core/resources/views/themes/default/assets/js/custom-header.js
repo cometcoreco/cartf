@@ -1,0 +1,3 @@
+/*
+It is a sample custom js file for hooks
+*/

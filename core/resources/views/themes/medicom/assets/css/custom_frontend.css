@@ -1,0 +1,64 @@
+.details-small-product {
+    height: 110px;
+    width: 105px;
+}
+.payment-list {
+    gap: 5px;
+    flex-wrap: wrap;
+}
+li.single-list {
+    max-width: 60px;
+}
+
+
+.name_badge{
+    justify-content: space-between;
+}
+.wishlist-compare .wishlist-compare-btn .btn-wishlist .icon{
+    background: transparent;
+}
+.wishlist-compare .wishlist-compare-btn .btn-wishlist .icon i{
+    color: var(--main-color-one);
+    font-size: 25px;
+}
+
+.social_share_parent ul{
+    gap: 10px;
+}
+.social_share_parent ul li a{
+    color: #ffffff;
+    padding: 10px;
+}
+.social_share_parent ul li a.facebook{
+    background: #4267B2;
+}
+.social_share_parent ul li a.twitter{
+    background: #1DA1F2;
+}
+.social_share_parent ul li a.linkedin{
+    background: #0072b1;
+}
+.social_share_parent ul li a.pinterest{
+    background: #E60023;
+}
+
+/* Common footer css */
+.footer-logo img {
+    max-width: 250px;
+}
+.footer-widget .footer-inner .payment-list li img {
+    height: auto;
+    max-width: 50px;
+}
+.footer-widget .footer-inner .payment-list {
+    gap: 10px;
+    overflow-x: auto;
+    max-width: 100%;
+    width: 100%;
+}
+.footer-social-two {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
